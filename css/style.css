@@ -21,3 +21,7 @@ label {
     font: bold;
     text-align: center;
 }
+
+#mapid { 
+    height: 180px; 
+}
