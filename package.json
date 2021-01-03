@@ -19,7 +19,16 @@
   "homepage": "https://github.com/tonydas-git/firstapp#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-flash-messages": "^0.1.1",
+    "express-session": "^1.17.1",
+    "http-status-codes": "^2.1.4",
+    "mongodb": "^3.6.3",
+    "mysql": "^2.18.1",
+    "promise-mysql": "^5.0.1"
   }
 }
